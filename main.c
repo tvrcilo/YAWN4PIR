@@ -61,7 +61,7 @@ void main(void)
     ANSELA = 0;
     ANSELB = 0;
     ANSELC = 0;
-    
+    // i tak ti ja napi?em komentar
     TRISCbits.TRISC5 = 0;           //RED LED output
     LATCbits.LATC5 = 0;             //RED LED off
     
